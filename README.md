@@ -1,4 +1,4 @@
-# 0621-open-office-hours
+# 060721-open-office-hours
 
 ## How To Setup a JS project + Github Repository For Practice
 
