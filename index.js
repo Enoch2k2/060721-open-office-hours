@@ -16,3 +16,5 @@
 // monkeyCreator('Really big');
 // monkeyCreator('Speaks Spanish');
 
+// git add . (stages files to be commited)
+// let's make a change
